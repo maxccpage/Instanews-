@@ -2,24 +2,46 @@ body {
 	background-color: black;
 }
 
-header img {
-	height: 9rem;
-	width: 50%;
-	padding-left: 5.5rem;
-	padding-top: 1rem;
+/* In App Navigation */ 
+.nav {
+	display: flex;
 }
 
-header p {
+.nav img {
+	padding: 10px;
+	padding-bottom: 20px;
+}
+
+.choose {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 25%;
+}
+
+.choose p {
 	color: white;
-	text-align: center;
-	font-size: 1.2rem;
-	font-family: 'Open Sans Light';
-	font-style: lighter;
+	margin-left: 14px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
 }
 
-select {
-	margin-left: 8.8rem;
-	margin-bottom: 2rem;
+.choose select {
+height: 40px;
+outline: none;
+width: 100%;
+border-radius: 10px;
+padding-left: 10px;
+font-family: 'Raleway', sans-serif;
+color: #A7A7A7;
+font-size: 13px;
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+background-image: linear-gradient(45deg, transparent 50%, gray 50%), linear-gradient(135deg, gray 50%, transparent 50%), linear-gradient(to right, #ccc, #ccc);
+background-position: calc(100% - 20px) calc(1.4em + .5px), calc(100% - 15px) calc(1.4em + .5px), calc(100% - 2.9em) .9em;
+background-size: 5px 5px, 5px 5px, 1px 1.5em;
+background-repeat: no-repeat;
 }
 
 .article {
@@ -104,11 +126,14 @@ select {
 .display {
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
 }
 div.article {
-	width: 25%;
+	width: 24%;
+	margin: .5%;
 	height: 25rem;
-	border: .1rem solid white;
+	border: 2px solid white;
 }
 
 
