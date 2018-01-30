@@ -2,11 +2,11 @@
 
 # New York Times API App - Instanews
 
-[](https://maxccpage.github.io/New-York-Times-API-/)
-
 ### Summary
 
 Instanews allows users to instantly retreive the top news articles from any particular selected category.
+
+[Visit Site Here](https://maxccpage.github.io/New-York-Times-API-/)
 
 ### Languages and Tools Used
 
