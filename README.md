@@ -6,7 +6,7 @@
 
 ### Summary
 
-Instanews allows users to instantly retreive the top 12 news articles from any particular selected category.
+Instanews allows users to instantly retreive the top news articles from any particular selected category.
 
 ### Languages and Tools Used
 
@@ -22,4 +22,4 @@ Instanews allows users to instantly retreive the top 12 news articles from any p
 
 ### Learning Outcomes
 
-The Instanews project allowed me to learn and sharpen a multitude of newly aquired skills. The use of Gulp as a task runner for my project allowed me to: run BroswerSync, lint JavaScript files, compile SCSS files into a style.css file, minify my CSS and JavaScript files, and last but not least notify me of any errors made, with messages in my terminal. Additionally, I learned how to pull, parse, and populate content with data that was received from an external web API. Finally, the use of SCSS allowed me to keep a more logically organized style folder using partials, in addition to using @mixins, @extends, as well as simple and logical variables.
+In this project, I learned how to pull, parse and populate content with data that was received from an external web API (New York Times). I also enhanced my CSS3 skills setting 6 media queries to make the site completely responsive and further familiarized myself with flexbox. 
