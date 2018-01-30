@@ -6,7 +6,7 @@
 
 Instanews allows users to instantly retreive the top news articles from any particular selected category.
 
-[Visit Site Here](https://maxccpage.github.io/New-York-Times-API-/)
+[Visit Site Here](https://maxccpage.github.io/Instanews-/)
 
 ### Languages and Tools Used
 
